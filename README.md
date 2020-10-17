@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Brandon Yonug
 
-You can use the [editor on GitHub](https://github.com/LittleKross47/littlekross47.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Louisville-Based Programmer
+
+[github lingk](https://github.com/LittleKross47/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
