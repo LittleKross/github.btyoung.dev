@@ -6,4 +6,4 @@
 
 [github link](https://github.com/LittleKross47/)
 
-[about me](github.btyoung.dev/aboutMe)
+[about me](/aboutMe)
