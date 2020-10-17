@@ -2,6 +2,6 @@
 
 ![profile-img](.\assets\profile.JPG)
 
-### Louisville-Based Programmer
+### Louisville-Area Programmer
 
 [github link](https://github.com/LittleKross47/)
