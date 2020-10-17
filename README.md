@@ -1,6 +1,6 @@
 ## Brandon Yonug
 
-![profile-img](./assets/profile.jpg)
+![profile-img](.\assets\profile.JPG)
 
 ### Louisville-Based Programmer
 
