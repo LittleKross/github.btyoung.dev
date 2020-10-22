@@ -1,4 +1,4 @@
-## Brandon Yonug
+## Brandon Young
 
 ![profile-img](.\assets\profile.JPG)
 
